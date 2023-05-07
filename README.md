@@ -10,7 +10,7 @@ To Run my notebook please follow below instructions:
 <br>
 3) After installing Jupyter in Miniconda prompt, run "jupyter notebook" and jupyter should open in your browser.
 <br>
-4) Download FinalMethods.ipynb notebook in a folder in your local disk and locate it in Jupyter and open.
+4) Download FinalMethods.ipynb notebook and tweets.csv file in a folder in your local disk and locate it in Jupyter and open.
 <br>
 <br>
 Please find below description for each cell #
