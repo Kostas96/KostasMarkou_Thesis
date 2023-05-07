@@ -6,7 +6,7 @@ To Run my notebook please follow below instructions:
 <br>
 1) Download Miniconda from https://docs.conda.io/en/latest/miniconda.html
 <br>
-2) After installing Miniconda open Miniconda prompt and run "conda install -c conda-forge notebook" or "pip install notebook" commands to install Jupyter.
+2) After installing Miniconda open search for Miniconda prompt on your PC, open it and run "conda install -c conda-forge notebook" or "pip install notebook" commands to install Jupyter.
 <br>
 3) After installing Jupyter in Miniconda prompt, run "jupyter notebook" and jupyter should open in your browser.
 <br>
