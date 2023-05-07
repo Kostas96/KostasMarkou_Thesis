@@ -4,13 +4,13 @@ In this repository you can find my final code of implementation.
 <br>
 To Run my notebook please follow below instructions:
 <br>
-1) Download Miniconda from https://conda.io/en/latest/miniconda.html
+1) Download Miniconda from https://docs.conda.io/en/latest/miniconda.html
 <br>
 2) After installing Miniconda open Miniconda prompt and run "conda install -c conda-forge notebook" or "pip install notebook" commands to install Jupyter.
 <br>
 3) After installing Jupyter in Miniconda prompt, run "jupyter notebook" and jupyter should open in your browser.
 <br>
-4) Download FinalMethods.ipynb notebook in a folder in your local disk and locate it in Jupyter and open. 
+4) Download FinalMethods.ipynb notebook in a folder in your local disk and locate it in Jupyter and open.
 <br>
 <br>
 Please find below description for each cell #
