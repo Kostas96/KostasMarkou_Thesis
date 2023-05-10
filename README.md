@@ -6,7 +6,7 @@ In this repository you can find the jupyter notebook and the relevant input file
 
 * Miniconda or Anaconda platforms
 
-# Jupyter Notebook has explanation for every cell and is structured as below
+# Jupyter Notebook is structured as below
 
 * Text Pre-Processing
 * Vectorization
